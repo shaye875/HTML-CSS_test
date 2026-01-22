@@ -1,0 +1,126 @@
+        body {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  padding : 0;
+  margin : 0;
+
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.inline-block{
+    display: inline-block;
+} 
+#logo{
+    position: relative;
+    top: 0.2rem;
+    left: 0.4rem;
+}
+#name{
+    position: relative;
+    left: 0.5rem;
+}
+#arrow{
+    position: relative;
+    left: 0.3rem;
+}
+#qwethen{
+    position: relative;
+    left:99.8rem;
+    border-radius: 0.5rem;
+}
+#imgQwethen{
+    width: 70%;
+}
+#signup{
+    position: relative;
+    left: 99.8rem;
+    background-color: white;
+    border: solid 0.1rem;
+    border-radius: 1rem;
+    padding: 0.4rem;
+}
+#logIn{
+    position: relative;
+    left: 100rem;
+    border: solid 0.1rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+}
+ body{
+           background-image: linear-gradient(to bottom, rgb(221, 142, 236), rgb(214, 211, 51));
+        }
+        #image{
+            object-fit: cover;
+            height: 12rem;
+            width: 8rem;
+            border-radius: 1rem;
+        }
+        .bodyImage{
+            position: relative;
+            left: 30rem;
+        }
+        .image2{
+            position: relative;
+            left: 9rem;
+            bottom: 14.3rem;
+        }
+        .image3{
+            position: relative;
+            bottom: 28.7rem;
+            left: 17.7rem;
+        }
+        .image4{
+            position: relative;
+            bottom: 43rem;
+            left: 26.5rem;
+        }
+        .image5{
+            position: relative;
+            bottom: 57.5rem;
+            left: 35rem;
+        }
+        .image6{
+            position: relative;
+            bottom: 72rem;
+            left: 43.5rem;
+        }
+        .arrow{
+            position: relative;
+            left: 38rem;
+            border: solid 0.1rem;
+            border-radius: 1rem;
+            background-color: white;
+        }
+        .arrow2{
+            position: relative;
+            bottom: 70rem;
+             left: 37rem;
+            border: solid 0.1rem;
+            border-radius: 1rem;
+            background-color: white;
+        }
+        #discover{
+            position: relative;
+            bottom: 70rem;
+        }
+        .new{
+            position: relative;
+            left: 30rem;
+           
+        }
+        .words{
+            position: relative;
+            bottom: 70rem;
+        }
+        .words2{
+            position: relative;
+            bottom: 77.5rem;
+            left: 30rem;
+        }
